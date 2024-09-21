@@ -43,7 +43,7 @@
 ## 使用指南
 
 1. 克隆仓库：
-- git clone https://github.com/your-username/intelligent-voice-assistant.git
+- git clone https://github.com/HaxxorCialtion/ASR_LLM_TTS_py.git
 
 - cd intelligent-voice-assistant
 
@@ -100,8 +100,8 @@ python main.py
 ## 联系方式
 
 项目维护者：HaxxorCialtion - cialtion@outlook.com
-项目链接：[https://github.com/your-username/intelligent-voice-assistant](https://github.com/your-username/intelligent-voice-assistant)
-Bilibili视频地址：
+Bilibili视频地址：https://www.bilibili.com/video/BV1pftreQEbu
+
 ## 致谢
 
 - [Porcupine](https://github.com/Picovoice/porcupine) - 用于唤醒词检测

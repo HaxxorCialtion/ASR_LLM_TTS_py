@@ -43,7 +43,7 @@ This is a Text-to-Speech (TTS) project based on the GPT-SoVITS API. The project 
 ## Usage Guide
 
 1.Clone the repository:
-- git clone https://github.com/your-username/intelligent-voice-assistant.git
+- git clone https://github.com/HaxxorCialtion/ASR_LLM_TTS_py.git
 - cd intelligent-voice-assistant
 
 2. Install dependencies:
@@ -95,7 +95,7 @@ This project is licensed under the MIT License
 
 Project Maintainer: HaxxorCialtion - cialtion@outlook.com
 
-Bilibili Video Address: [Insert Bilibili Video Link Here]
+Bilibili Video Address: https://www.bilibili.com/video/BV1pftreQEbu
 
 ## Acknowledgements
 
