@@ -1,0 +1,9 @@
+requests
+playsound
+pyaudio
+numpy
+funasr-onnx
+scipy
+sounddevice
+webrtcvad
+soundfile
